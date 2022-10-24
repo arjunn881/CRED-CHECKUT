@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.concon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.con {
+  margin: 60px 0;
+  padding-top: 40px;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: cadetblue;
+  border-radius: 10px;
+}
+.card {
+  width: 40%;
+
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.page {
+  margin: 20px;
+  padding: 20px;
+  background-color: black;
+  color: white;
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.crcard {
+  height: 120px;
+  width: 200px;
+  background-color: black;
+  border-radius: 8px;
+  text-align: center;
+  position: relative;
+}
+h1 {
+  margin-bottom: 20px;
+}
+h6 {
+  position: absolute;
+  bottom: 5px;
+  left: 10px;
+}
+h5 {
+  position: absolute;
+  bottom: 50px;
+  left: 35px;
+}
+span {
+  font-size: 8px;
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+}
+h4 {
+  margin-top: 5px;
+}
+input {
+  margin: 5px 0;
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  border-radius: 10px;
+  border: none;
+  width: 200px;
+}
+label {
+  font-weight: bold;
+}
+.btn {
+  color: black;
+  background-color: white;
+  padding: 5px 20px;
+
+  border-radius: 10px;
+  border: none;
+
+  cursor: pointer;
+}
+.btncon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
