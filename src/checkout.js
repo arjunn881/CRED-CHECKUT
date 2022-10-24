@@ -25,7 +25,7 @@ const checkout = () => {
   return (
     <div className={Style.concon}>
       <div className={Style.con}>
-        <h1>CREDIT CARD CHECHOUT</h1>
+        <h1>CREDIT CARD CHECKOUT</h1>
         <div className={Style.card}>
           <div className={Style.crcard}>
             <h4>CREDIT CARD</h4>
